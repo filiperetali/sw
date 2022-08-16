@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="311"
+   height="311"
+   viewBox="0 0 311 311"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.7370726"
+     inkscape:cx="-10.074421"
+     inkscape:cy="150.25279"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g15">
+    <ellipse
+       style="fill:#a4aea6;stroke-width:2.30458"
+       id="path385"
+       cx="151.82549"
+       cy="169.55647"
+       inkscape:export-filename="C:\Users\etec\path385.png"
+       inkscape:export-xdpi="57.802151"
+       inkscape:export-ydpi="57.802151"
+       rx="92.460114"
+       ry="99.029541" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a4aea6"
+       id="path431"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="120.28861"
+       sodipodi:cy="154.27879"
+       sodipodi:r1="32.133247"
+       sodipodi:r2="16.066624"
+       sodipodi:arg1="0.83468557"
+       sodipodi:arg2="1.4630041"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 141.86322,178.09227 -19.8461,-7.8401 -17.70955,11.90406 1.3236,-21.29749 -16.793995,-13.16422 20.664135,-5.32247 7.33029,-20.04 11.44754,18.00802 21.32436,0.77882 -13.58917,16.45204 z"
+       inkscape:transform-center-x="2.3788745"
+       inkscape:transform-center-y="-6.6581976"
+       inkscape:export-filename="C:\Users\etec\path385.png"
+       inkscape:export-xdpi="57.802151"
+       inkscape:export-ydpi="57.802151"
+       transform="matrix(2.2268307,0,0,3.2724001,-195.34035,-347.9502)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a4aea6"
+       id="path433"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="183.18062"
+       sodipodi:cy="162.01311"
+       sodipodi:r1="50.550659"
+       sodipodi:r2="25.27533"
+       sodipodi:arg1="2.3191744"
+       sodipodi:arg2="2.9474929"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 148.78337,199.0563 9.59655,-32.168 -21.05881,-26.14195 33.55909,-0.8136 18.35494,-28.10641 11.1441,31.66517 32.40278,8.77122 -26.67165,20.38375 1.67108,33.52733 -27.62809,-19.06732 z"
+       inkscape:transform-center-x="-3.5977641"
+       inkscape:transform-center-y="-8.88139"
+       transform="matrix(1.9229671,0,0,2.9476638,-138.35198,-331.53676)"
+       inkscape:export-filename="C:\Users\etec\path385.png"
+       inkscape:export-xdpi="57.802151"
+       inkscape:export-ydpi="57.802151" />
+  </g>
+</svg>
