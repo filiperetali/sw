@@ -23,6 +23,5 @@ if($conexao){
     } catch (PDO $th) {
         echo $th.getMessage();
     }    
-    print_r($acao);
 }
  
