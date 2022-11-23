@@ -7,6 +7,12 @@
     $tarefas = [];
     $tarefas = $resultado->fetchAll();
    // print_r($tarefas);
+// print_r($tarefas);
+    // if(count($tarefas) > 0){
+    //     foreach($tarefas as $registro){ 
+    //         echo $registro["id"] ;echo "aqui";
+    //     }  
+    // }
 ?>
 <form action="#" method="get">
 <fieldset>
